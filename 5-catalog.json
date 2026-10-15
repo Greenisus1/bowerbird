@@ -1,0 +1,20 @@
+{
+ "apps": [
+  {
+   "name": "hello-mac",
+   "version": "1.0.0",
+   "description": "says hello from your Mac",
+   "url": "apps/hello-mac.tar.gz",
+   "sha256": "d8dc9171577e7d0d21726c1687ba8228607fddc618ef3de8120ad019ef957f83",
+   "run": "run.sh"
+  },
+  {
+   "name": "sys-peek",
+   "version": "1.0.0",
+   "description": "one-screen system snapshot",
+   "url": "apps/sys-peek.tar.gz",
+   "sha256": "5a642ab707b4efdcd8b91214f54dcc9db365c29eb165ff9c82cf329a7b4b2eee",
+   "run": "run.sh"
+  }
+ ]
+}
